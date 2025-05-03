@@ -9,3 +9,7 @@ function substraction(){
 }
 
 const b =20
+
+function addition(){
+    console.log("addition")
+}
