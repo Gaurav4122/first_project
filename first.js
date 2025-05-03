@@ -13,3 +13,7 @@ const b =20
 function addition(){
     console.log("addition")
 }
+
+function payment(){
+    console.log("payement is added successfully")
+}
